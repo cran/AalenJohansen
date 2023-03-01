@@ -1,0 +1,14 @@
+566d62c7860309807c8f0cee10f2d674 *DESCRIPTION
+0e621987e65cedbba59214de511228d2 *NAMESPACE
+4cc2e65db0f1e5b1dd65a52b865be66e *R/Aalen-Johansen.R
+a246a826c2e0d3e55f433b59ebeaa584 *R/Additional_tools.R
+c07f933e33451faa5b9807b8e46e5195 *R/sim.R
+ac2eba1e70704295c2b3257cc2734395 *README.md
+ba31210102b96e32d6e130f0e3caf7b9 *build/vignette.rds
+a97668036705a8f6eb1206983c78edf8 *inst/doc/AalenJohansen-vignette.R
+3ea7a9cd58ae34fd401b5f75848dc0bc *inst/doc/AalenJohansen-vignette.Rmd
+82a02d9f8314edbeebbb47007dc12f05 *inst/doc/AalenJohansen-vignette.html
+133b86aa6faaf76274859c61fdea6b0e *man/aalen_johansen.Rd
+bf667f4eff132d09ea0f059fe14157d9 *man/prodint.Rd
+3e61ab746e7b08629ac3bd1ec6302637 *man/sim_path.Rd
+3ea7a9cd58ae34fd401b5f75848dc0bc *vignettes/AalenJohansen-vignette.Rmd
